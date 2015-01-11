@@ -1,2 +1,0 @@
-# SiicInc
-Siic 
